@@ -9,6 +9,7 @@ h2{
 .menu{
    display: flex;
    gap: 30px;
+   list-style: none;
 }
 
 h3{
