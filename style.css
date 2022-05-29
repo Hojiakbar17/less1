@@ -5,3 +5,8 @@ h1{
 h2{
    color: green;
 }
+
+.menu{
+   display: flex;
+   gap: 30px;
+}
